@@ -1,0 +1,325 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sinem\\source\\repos\\Firma\\Firma.Northwind.Business\\Firma.Northwind.Business.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sinem\\source\\repos\\Firma\\Firma.Core\\Firma.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sinem\\source\\repos\\Firma\\Firma.Core\\Firma.Core.csproj",
+        "projectName": "Firma.Core",
+        "projectPath": "C:\\Users\\sinem\\source\\repos\\Firma\\Firma.Core\\Firma.Core.csproj",
+        "packagesPath": "C:\\Users\\sinem\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sinem\\source\\repos\\Firma\\Firma.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sinem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.Cookies": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.TagHelpers": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.PowerShell.5.ReferenceAssemblies": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sinem\\source\\repos\\Firma\\Firma.Northwind.Business\\Firma.Northwind.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sinem\\source\\repos\\Firma\\Firma.Northwind.Business\\Firma.Northwind.Business.csproj",
+        "projectName": "Firma.Northwind.Business",
+        "projectPath": "C:\\Users\\sinem\\source\\repos\\Firma\\Firma.Northwind.Business\\Firma.Northwind.Business.csproj",
+        "packagesPath": "C:\\Users\\sinem\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sinem\\source\\repos\\Firma\\Firma.Northwind.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sinem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\sinem\\source\\repos\\Firma\\Firma.Core\\Firma.Core.csproj": {
+                "projectPath": "C:\\Users\\sinem\\source\\repos\\Firma\\Firma.Core\\Firma.Core.csproj"
+              },
+              "C:\\Users\\sinem\\source\\repos\\Firma\\Firma.Northwind.DataAccess\\Firma.Northwind.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\sinem\\source\\repos\\Firma\\Firma.Northwind.DataAccess\\Firma.Northwind.DataAccess.csproj"
+              },
+              "C:\\Users\\sinem\\source\\repos\\Firma\\Firma.Northwind.Entities\\Firma.Northwind.Entities.csproj": {
+                "projectPath": "C:\\Users\\sinem\\source\\repos\\Firma\\Firma.Northwind.Entities\\Firma.Northwind.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.Cookies": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.TagHelpers": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.PowerShell.5.ReferenceAssemblies": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sinem\\source\\repos\\Firma\\Firma.Northwind.DataAccess\\Firma.Northwind.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sinem\\source\\repos\\Firma\\Firma.Northwind.DataAccess\\Firma.Northwind.DataAccess.csproj",
+        "projectName": "Firma.Northwind.DataAccess",
+        "projectPath": "C:\\Users\\sinem\\source\\repos\\Firma\\Firma.Northwind.DataAccess\\Firma.Northwind.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\sinem\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sinem\\source\\repos\\Firma\\Firma.Northwind.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sinem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\sinem\\source\\repos\\Firma\\Firma.Core\\Firma.Core.csproj": {
+                "projectPath": "C:\\Users\\sinem\\source\\repos\\Firma\\Firma.Core\\Firma.Core.csproj"
+              },
+              "C:\\Users\\sinem\\source\\repos\\Firma\\Firma.Northwind.Entities\\Firma.Northwind.Entities.csproj": {
+                "projectPath": "C:\\Users\\sinem\\source\\repos\\Firma\\Firma.Northwind.Entities\\Firma.Northwind.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.Cookies": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.TagHelpers": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.PowerShell.5.ReferenceAssemblies": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sinem\\source\\repos\\Firma\\Firma.Northwind.Entities\\Firma.Northwind.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sinem\\source\\repos\\Firma\\Firma.Northwind.Entities\\Firma.Northwind.Entities.csproj",
+        "projectName": "Firma.Northwind.Entities",
+        "projectPath": "C:\\Users\\sinem\\source\\repos\\Firma\\Firma.Northwind.Entities\\Firma.Northwind.Entities.csproj",
+        "packagesPath": "C:\\Users\\sinem\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sinem\\source\\repos\\Firma\\Firma.Northwind.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sinem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\sinem\\source\\repos\\Firma\\Firma.Core\\Firma.Core.csproj": {
+                "projectPath": "C:\\Users\\sinem\\source\\repos\\Firma\\Firma.Core\\Firma.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.Cookies": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.TagHelpers": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.PowerShell.5.ReferenceAssemblies": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\sinem\source\repos\Firma\Firma.Northwind.DataAccess\bin\Debug\netcoreapp2.2\Firma.Core.dll
+C:\Users\sinem\source\repos\Firma\Firma.Northwind.DataAccess\bin\Debug\netcoreapp2.2\Firma.Northwind.Entities.dll
+C:\Users\sinem\source\repos\Firma\Firma.Northwind.DataAccess\obj\Debug\netcoreapp2.2\Firma.Northwind.DataAccess.csprojAssemblyReference.cache
+C:\Users\sinem\source\repos\Firma\Firma.Northwind.DataAccess\obj\Debug\netcoreapp2.2\Firma.Northwind.DataAccess.AssemblyInfoInputs.cache
+C:\Users\sinem\source\repos\Firma\Firma.Northwind.DataAccess\obj\Debug\netcoreapp2.2\Firma.Northwind.DataAccess.AssemblyInfo.cs
+C:\Users\sinem\source\repos\Firma\Firma.Northwind.DataAccess\bin\Debug\netcoreapp2.2\Firma.Northwind.DataAccess.deps.json
+C:\Users\sinem\source\repos\Firma\Firma.Northwind.DataAccess\bin\Debug\netcoreapp2.2\Firma.Northwind.DataAccess.dll
+C:\Users\sinem\source\repos\Firma\Firma.Northwind.DataAccess\bin\Debug\netcoreapp2.2\Firma.Northwind.DataAccess.pdb
+C:\Users\sinem\source\repos\Firma\Firma.Northwind.DataAccess\bin\Debug\netcoreapp2.2\Firma.Core.pdb
+C:\Users\sinem\source\repos\Firma\Firma.Northwind.DataAccess\bin\Debug\netcoreapp2.2\Firma.Northwind.Entities.pdb
+C:\Users\sinem\source\repos\Firma\Firma.Northwind.DataAccess\obj\Debug\netcoreapp2.2\Firma.Northwind.DataAccess.csproj.CopyComplete
+C:\Users\sinem\source\repos\Firma\Firma.Northwind.DataAccess\obj\Debug\netcoreapp2.2\Firma.Northwind.DataAccess.dll
+C:\Users\sinem\source\repos\Firma\Firma.Northwind.DataAccess\obj\Debug\netcoreapp2.2\Firma.Northwind.DataAccess.pdb
+C:\Users\sinem\source\repos\Firma\Firma.Northwind.DataAccess\bin\Debug\netcoreapp2.2\Firma.Northwind.DataAccess.runtimeconfig.json
+C:\Users\sinem\source\repos\Firma\Firma.Northwind.DataAccess\bin\Debug\netcoreapp2.2\Firma.Northwind.DataAccess.runtimeconfig.dev.json

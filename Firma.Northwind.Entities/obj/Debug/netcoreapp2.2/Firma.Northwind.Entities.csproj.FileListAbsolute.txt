@@ -1,0 +1,13 @@
+C:\Users\sinem\source\repos\Firma\Firma.Northwind.Entities\bin\Debug\netcoreapp2.2\Firma.Northwind.Entities.deps.json
+C:\Users\sinem\source\repos\Firma\Firma.Northwind.Entities\bin\Debug\netcoreapp2.2\Firma.Northwind.Entities.dll
+C:\Users\sinem\source\repos\Firma\Firma.Northwind.Entities\bin\Debug\netcoreapp2.2\Firma.Northwind.Entities.pdb
+C:\Users\sinem\source\repos\Firma\Firma.Northwind.Entities\bin\Debug\netcoreapp2.2\Firma.Core.dll
+C:\Users\sinem\source\repos\Firma\Firma.Northwind.Entities\bin\Debug\netcoreapp2.2\Firma.Core.pdb
+C:\Users\sinem\source\repos\Firma\Firma.Northwind.Entities\obj\Debug\netcoreapp2.2\Firma.Northwind.Entities.csprojAssemblyReference.cache
+C:\Users\sinem\source\repos\Firma\Firma.Northwind.Entities\obj\Debug\netcoreapp2.2\Firma.Northwind.Entities.AssemblyInfoInputs.cache
+C:\Users\sinem\source\repos\Firma\Firma.Northwind.Entities\obj\Debug\netcoreapp2.2\Firma.Northwind.Entities.AssemblyInfo.cs
+C:\Users\sinem\source\repos\Firma\Firma.Northwind.Entities\obj\Debug\netcoreapp2.2\Firma.Northwind.Entities.csproj.CopyComplete
+C:\Users\sinem\source\repos\Firma\Firma.Northwind.Entities\obj\Debug\netcoreapp2.2\Firma.Northwind.Entities.dll
+C:\Users\sinem\source\repos\Firma\Firma.Northwind.Entities\obj\Debug\netcoreapp2.2\Firma.Northwind.Entities.pdb
+C:\Users\sinem\source\repos\Firma\Firma.Northwind.Entities\bin\Debug\netcoreapp2.2\Firma.Northwind.Entities.runtimeconfig.json
+C:\Users\sinem\source\repos\Firma\Firma.Northwind.Entities\bin\Debug\netcoreapp2.2\Firma.Northwind.Entities.runtimeconfig.dev.json

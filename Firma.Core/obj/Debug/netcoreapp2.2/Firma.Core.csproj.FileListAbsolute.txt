@@ -1,0 +1,10 @@
+C:\Users\sinem\source\repos\Firma\Firma.Core\bin\Debug\netcoreapp2.2\Firma.Core.deps.json
+C:\Users\sinem\source\repos\Firma\Firma.Core\bin\Debug\netcoreapp2.2\Firma.Core.dll
+C:\Users\sinem\source\repos\Firma\Firma.Core\bin\Debug\netcoreapp2.2\Firma.Core.pdb
+C:\Users\sinem\source\repos\Firma\Firma.Core\obj\Debug\netcoreapp2.2\Firma.Core.AssemblyInfoInputs.cache
+C:\Users\sinem\source\repos\Firma\Firma.Core\obj\Debug\netcoreapp2.2\Firma.Core.AssemblyInfo.cs
+C:\Users\sinem\source\repos\Firma\Firma.Core\obj\Debug\netcoreapp2.2\Firma.Core.dll
+C:\Users\sinem\source\repos\Firma\Firma.Core\obj\Debug\netcoreapp2.2\Firma.Core.pdb
+C:\Users\sinem\source\repos\Firma\Firma.Core\bin\Debug\netcoreapp2.2\Firma.Core.runtimeconfig.json
+C:\Users\sinem\source\repos\Firma\Firma.Core\bin\Debug\netcoreapp2.2\Firma.Core.runtimeconfig.dev.json
+C:\Users\sinem\source\repos\Firma\Firma.Core\obj\Debug\netcoreapp2.2\Firma.Core.csprojAssemblyReference.cache
